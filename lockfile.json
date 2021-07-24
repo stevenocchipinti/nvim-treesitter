@@ -174,7 +174,7 @@
     "revision": "a22fa5e19bae50098e2252ea96cba3aba43f4c58"
   },
   "teal": {
-    "revision": "85d8a3b1e23f74495d1125c441d33af5f28c9dea"
+    "revision": "fcc5f6f4d194dede4e676834ff28a506e39e17b4"
   },
   "toml": {
     "revision": "8bd2056818b21860e3d756b5a58c4f6e05fb744e"
@@ -198,7 +198,7 @@
     "revision": "0e36bed171768908f331ff7dff9d956bae016efb"
   },
   "yang": {
-    "revision": "eb4ace1fdc4954d7e4f0687c687219f78a6ce64e"
+    "revision": "cc81c9a8f40e77567e66cfd83fd532817ca256b9"
   },
   "zig": {
     "revision": "05d6f44e5ae8fe986a7ca09ce2a301aa5148a20f"
